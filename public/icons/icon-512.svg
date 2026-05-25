@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="102.4" fill="#DA251D"/>
+  <polygon points="256,102.4 296.96,225.28 435.2,225.28 322.56,302.08 363.52,424.96 256,348.16 148.48,424.96 189.44,302.08 76.8,225.28 215.04,225.28" fill="#FFFF00"/>
+  <text x="256" y="496.64" text-anchor="middle" font-family="Arial" font-size="61.44" fill="#C8A84B" font-weight="bold">₫ CAD</text>
+</svg>
